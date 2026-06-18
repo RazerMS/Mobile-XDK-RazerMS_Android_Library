@@ -2,29 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
+# 🚚 Repository Moved
 
-## Resources
+This repository has been moved to a new location and is no longer actively maintained.
 
-- GitHub:     https://github.com/RazerMS
-- Website:    https://merchant.razer.com/
-- Twitter:    https://twitter.com/Razer_MS
-- YouTube:    https://www.youtube.com/c/RazerMerchantServices
-- Facebook:   https://www.facebook.com/RazerMerchantServices/
-- Instagram:  https://www.instagram.com/RazerMerchantServices/
+👉 New repository: https://github.com/FiuuPayment/Mobile-XDK-Fiuu_Android_Library
 
+Please update your bookmarks, clone URLs, and CI/CD configurations accordingly.
 
-Issues
-------------
+All future updates, bug fixes, and feature enhancements will be published in the new repository.
 
-Submit issue to this repository or email to our support-sa@razer.com
-
-Support
--------
-
-Merchant Technical Support / Customer Care : support-sa@razer.com <br>
-Sales/Reseller Enquiry : sales-sa@razer.com <br>
-Marketing Campaign : marketing-sa@razer.com <br>
-Channel/Partner Enquiry : channel-sa@razer.com <br>
-Media Contact : media-sa@razer.com <br>
-R&D and Tech-related Suggestion : technical-sa@razer.com <br>
-Abuse Reporting : abuse-sa@razer.com
+Thank you for your support.
